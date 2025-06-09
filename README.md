@@ -48,7 +48,6 @@ npm start
 
 🌍 Geolocation Notes
 When you click “Use My Location,” your browser may ask for permission.
-
 If you deny it, the app won’t be able to fetch your local weather.
 
 🧠 Author
