@@ -1,16 +1,44 @@
-<<<<<<< HEAD
-# React + Vite
+🌦️ Weather App
+A simple and responsive weather app built with React.js. It fetches real-time weather data using the WeatherAPI, includes a dark/light mode toggle, and supports geolocation to detect y
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📸 Screenshots
 
-Currently, two official plugins are available:
+### Light Mode
+![Light Mode](screenshot-light.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Dark Mode
+![Dark Mode](screenshot-dark.png)
 
-## Expanding the ESLint configuration
+🚀 Features
+Search weather by city
+Get weather for your current location
+Display temperature, humidity, wind speed, and more
+Dark and light theme toggle
+Mobile responsive design
+Error and loading state handling
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Weather-app
->>>>>>> 6012f430521a380ed08f8584c4613593c8c4019d
+🛠️ Tech Stack
+React.js
+
+CSS (or Tailwind if you're using it)
+
+WeatherAPI
+
+HTML5
+
+JavaScript (ES6)
+
+📦 Installation
+bash
+Copy
+Edit
+git clone https://github.com/Oliverko-coding/Weather-app.git
+cd Weather-app
+npm install
+npm start
+
+📍 Geolocation Notes
+To use your current location, you must allow location access in your browser.
+
+📄 License
+This project is open source and free to use.
