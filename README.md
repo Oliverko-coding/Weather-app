@@ -1,44 +1,63 @@
-🌦️ Weather App
-A simple and responsive weather app built with React.js. It fetches real-time weather data using the WeatherAPI, includes a dark/light mode toggle, and supports geolocation to detect y
+# 🌦️ Weather App
+
+A simple and responsive weather application built with **React.js**. It fetches real-time weather data using [WeatherAPI](https://www.weatherapi.com/) and allows users to view weather information by city name or current location. Includes dark and light mode themes.
+
+---
 
 ## 📸 Screenshots
 
-### Light Mode
+### 🌞 Light Mode
 ![Light Mode](screenshot-light.png)
 
-### Dark Mode
+### 🌙 Dark Mode
 ![Dark Mode](screenshot-dark.png)
 
-🚀 Features
-Search weather by city
-Get weather for your current location
-Display temperature, humidity, wind speed, and more
-Dark and light theme toggle
-Mobile responsive design
-Error and loading state handling
+---
 
-🛠️ Tech Stack
-React.js
+## 🚀 Features
 
-CSS (or Tailwind if you're using it)
+- 🌍 Search for weather by city name
+- 📍 Detect current location and show weather
+- 🌡️ Shows temperature in °C and °F
+- 💧 Displays humidity, wind speed, and feels-like temperature
+- 🌓 Toggle between light and dark modes
+- ⚠️ Loading and error handling
+- 📱 Mobile responsive design
 
-WeatherAPI
+---
 
-HTML5
+## 🛠️ Tech Stack
 
-JavaScript (ES6)
+- **React.js**
+- **CSS**
+- **JavaScript (ES6)**
+- **WeatherAPI**
 
-📦 Installation
-bash
-Copy
-Edit
+---
+
+## 📦 Installation
+
+Clone the repo and install dependencies:
+
+```bash
 git clone https://github.com/Oliverko-coding/Weather-app.git
 cd Weather-app
 npm install
 npm start
 
-📍 Geolocation Notes
-To use your current location, you must allow location access in your browser.
+
+🌍 Geolocation Notes
+When you click “Use My Location,” your browser may ask for permission.
+
+If you deny it, the app won’t be able to fetch your local weather.
+
+🧠 Author
+Oliver Naansok Kurungtoe
+📧 kurungtoeo@gmail.com
+📱 +2349135472217
+🎓 Computer Science, University of Jos
+📌 GitHub Profile
 
 📄 License
-This project is open source and free to use.
+This project is open-source and free to use.
+
