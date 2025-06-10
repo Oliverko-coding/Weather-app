@@ -2,6 +2,11 @@
 
 A simple and responsive weather application built with **React.js**. It fetches real-time weather data using [WeatherAPI](https://www.weatherapi.com/) and allows users to view weather information by city name or current location. Includes dark and light mode themes.
 
+
+## 🔗 Live Demo  
+[Click here to view the Weather App](https://weather-app-xi-three-39.vercel.app/)
+
+
 ---
 
 ## 📸 Screenshots
